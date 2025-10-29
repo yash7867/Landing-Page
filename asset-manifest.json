@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/Landing-Page/static/css/main.cffb4601.css",
-    "main.js": "/Landing-Page/static/js/main.de07a345.js",
+    "main.css": "/Landing-Page/static/css/main.07840223.css",
+    "main.js": "/Landing-Page/static/js/main.eb05d8b1.js",
     "static/js/453.8145ecbf.chunk.js": "/Landing-Page/static/js/453.8145ecbf.chunk.js",
+    "static/media/service1.jpg": "/Landing-Page/static/media/service1.7497b56442cbf52a23dc.jpg",
+    "static/media/service3.jpg": "/Landing-Page/static/media/service3.efad9756b8c330a3af8e.jpg",
+    "static/media/FourthP4.jpg": "/Landing-Page/static/media/FourthP4.0a7bbb168fb532518922.jpg",
     "static/media/josh.jpg": "/Landing-Page/static/media/josh.e139575b52a2fac1bcc1.jpg",
+    "static/media/FirstP1.jpg": "/Landing-Page/static/media/FirstP1.df8490406e2a74d10628.jpg",
+    "static/media/SecondP2.jpg": "/Landing-Page/static/media/SecondP2.e72c7f4af5568c43efac.jpg",
+    "static/media/ThirdP3.jpg": "/Landing-Page/static/media/ThirdP3.e1344580b3a9cc2c34f1.jpg",
     "static/media/suchBay.jpg": "/Landing-Page/static/media/suchBay.d1c3efd880a46cf7b010.jpg",
     "static/media/bootstrap-icons.woff?": "/Landing-Page/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/Landing-Page/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/Pricing.jpg": "/Landing-Page/static/media/Pricing.cf8616ccffbff95b4f81.jpg",
     "index.html": "/Landing-Page/index.html",
-    "main.cffb4601.css.map": "/Landing-Page/static/css/main.cffb4601.css.map",
-    "main.de07a345.js.map": "/Landing-Page/static/js/main.de07a345.js.map",
+    "main.07840223.css.map": "/Landing-Page/static/css/main.07840223.css.map",
+    "main.eb05d8b1.js.map": "/Landing-Page/static/js/main.eb05d8b1.js.map",
     "453.8145ecbf.chunk.js.map": "/Landing-Page/static/js/453.8145ecbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cffb4601.css",
-    "static/js/main.de07a345.js"
+    "static/css/main.07840223.css",
+    "static/js/main.eb05d8b1.js"
   ]
 }
